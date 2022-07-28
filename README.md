@@ -1,4 +1,4 @@
-## Olá! Eu sou o Vinicius Santos Dev
+## Olá! Eu sou o Vinicius Santos
 - 👋 Hoje eu trabalho com front-end
 - 🌱 Estudando Javascript
 - 📫 contate-me no e-mail: viniciussantosmendes80@gmail.com
